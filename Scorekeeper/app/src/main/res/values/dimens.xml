@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_med">16dp</dimen>
+    <dimen name="oval_border_width">2dp</dimen>
+    <dimen name="button_size">70dp</dimen>
+</resources>
